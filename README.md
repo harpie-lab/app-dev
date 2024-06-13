@@ -3,19 +3,19 @@ My first repository
 
 **My favorite Anime series**
 1. *One Piece*
-   ![alt text] (![image](https://github.com/harpie-lab/app-dev/assets/172574183/15451f24-b78f-4628-823f-d093859e7f3a).jpeg)
+   (![image](https://github.com/harpie-lab/app-dev/assets/172574183/15451f24-b78f-4628-823f-d093859e7f3a)
    
 2. *Attack on Titan*
-   ![alt text] (![image](https://github.com/harpie-lab/app-dev/assets/172574183/040b547e-936c-4241-8c4d-c9a297318487),jpeg)
+   (![image](https://github.com/harpie-lab/app-dev/assets/172574183/040b547e-936c-4241-8c4d-c9a297318487)
 
 3. *Haikyuu*
-   ![alt text] (![image](https://github.com/harpie-lab/app-dev/assets/172574183/77b925b3-e8e6-4ef3-bf3b-cd490c9ffcd4).jpeg)
+   (![image](https://github.com/harpie-lab/app-dev/assets/172574183/77b925b3-e8e6-4ef3-bf3b-cd490c9ffcd4)
 
 4. *Demon Slayer*
-   ![alt text] (![image](https://github.com/harpie-lab/app-dev/assets/172574183/20e3a98b-f34f-49d6-8490-55affbcac72b).jpeg)
+   (![image](https://github.com/harpie-lab/app-dev/assets/172574183/20e3a98b-f34f-49d6-8490-55affbcac72b)
 
 5. *Ace of Diamond*
-   1[alt text] (![image](https://github.com/harpie-lab/app-dev/assets/172574183/29879d8c-8112-432b-900d-eb058686fa70).jpeg)
+   (![image](https://github.com/harpie-lab/app-dev/assets/172574183/29879d8c-8112-432b-900d-eb058686fa70)
 
 
 ***Brief summary of each Anime series***
